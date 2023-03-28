@@ -10,3 +10,5 @@ Curso introductorio de uso de Python para Bioinformatica
 - Python (intro)
 - Biopython (intro)
 - ML para Bio
+
+El archivo .sh sirve para guardar el conteo de eventos de géneros del archivo archivo.csv
