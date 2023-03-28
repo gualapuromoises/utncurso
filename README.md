@@ -1,5 +1,5 @@
 # CURSO DE BIOINFORMÁTICA - UTN 
-27 al 29 de marzo de 2023
+27 al 29 de marzo de 2023 (Ojala terminemos el programa)
 
 Curso introductorio de uso de Python para Bioinformatica 
 
