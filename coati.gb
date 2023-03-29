@@ -1,0 +1,893 @@
+LOCUS       MT587747                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Cundinamarca8 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587747
+VERSION     MT587747.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Cundinamarca8"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587746                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Carchi1 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587746
+VERSION     MT587746.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Carchi1"
+                     /db_xref="taxon:743424"
+                     /country="Ecuador"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tatatgattg
+       61 atcttacatg tatgtaattc acttagatca cgagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc cataaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587745                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Choco2 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587745
+VERSION     MT587745.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Choco2"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgattg
+       61 attttacata ggtgtaattc acctggatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catgaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587744                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Boyaca5 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587744
+VERSION     MT587744.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Boyaca5"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atacacaaaa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccac cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587743                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Risaralda2 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587743
+VERSION     MT587743.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Risaralda2"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tgtatgatta
+       61 atcttacatg aatgtaattc acttagatca cgagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587742                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Risaralda1 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587742
+VERSION     MT587742.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Risaralda1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tgtatgatta
+       61 atcttacatg gatgtaattc acttagatca cgagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587741                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Choco1 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587741
+VERSION     MT587741.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Choco1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattact ggtttgcccc atgcatataa gcatgtacat tatatgattg
+       61 atcttacata gatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatttctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587740                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Boyaca4 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587740
+VERSION     MT587740.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Boyaca4"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcataaaa acatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587739                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Cundinamarca7 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587739
+VERSION     MT587739.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Cundinamarca7"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587738                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Cundinamarca6 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587738
+VERSION     MT587738.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Cundinamarca6"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gccctggatc
+      301 acacaa
+//
+LOCUS       MT587737                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Norte Santander7 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587737
+VERSION     MT587737.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Norte Santander7"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatca cgagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc cataaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587736                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Caldas1 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587736
+VERSION     MT587736.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Caldas1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatca cgagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc cataaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactaa cccaccaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587735                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Manizales1 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587735
+VERSION     MT587735.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Manizales1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcc ccagcttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc cataaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587734                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Boyaca3 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587734
+VERSION     MT587734.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Boyaca3"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcc ccaccttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catgaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587733                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Chingaza3 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587733
+VERSION     MT587733.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Chingaza3"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatca caaccttgat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc cataaaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587732                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Norte Santander6 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587732
+VERSION     MT587732.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Norte Santander6"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccac cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587731                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Narino2 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587731
+VERSION     MT587731.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Narino2"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc tgcacttcaa ggtttgcccc atgcatataa gcatgtacat tatatgattg
+       61 atcttacata gatgtaattc acctagatca cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587730                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Narino1 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MT587730
+VERSION     MT587730.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Narino1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattact ggtttgcccc atgcatataa gcatgtacat tatatgattg
+       61 atcttacata gatgtaattc acctagatca cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactaa cccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587729                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Norte Santander5 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587729
+VERSION     MT587729.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Norte Santander5"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtgt acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactaa cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
